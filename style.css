@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Mulish:wght@200&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Mulish:wght@200&display=swap");
 
 * {
-  font-family: 'Comfortaa', cursive;
-  font-family: 'Mulish', sans-serif;
+  font-family: "Comfortaa", cursive;
+  font-family: "Mulish", sans-serif;
   margin: 0;
   padding: 0;
 }
-body{
+body {
   min-width: 1096px;
   min-height: 844px;
 }
@@ -102,16 +102,14 @@ h4 {
   font-size: 11px;
   margin-top: 10px;
 }
-
 img {
- position:relative;
+  position: relative;
   top: 100px;
   padding: 20px;
   max-width: 500px;
   max-height: 500px;
   object-fit: contain;
 }
-
 .uploaded-image {
   position: absolute;
   max-width: 100px;
@@ -120,4 +118,3 @@ img {
   top: 520px;
   left: 268px;
 }
-
